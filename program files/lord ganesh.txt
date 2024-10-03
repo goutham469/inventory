@@ -1,0 +1,9 @@
+			name : lord ganesh
+
+
+	Item			Price			Quantity
+
+
+1	clay idol 	9909.99	123	1218928.77
+
+Total Bill = 1218928.77
